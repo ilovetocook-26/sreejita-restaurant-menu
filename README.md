@@ -48,7 +48,7 @@ The database was developed and tested using **phpMyAdmin** through the XAMPP env
 ## 📂 Project Structure
 
 ```text
-sreejita-restaurant-menu/
+restaurant-menu/
 │
 ├── admin/
 ├── images/
@@ -99,7 +99,7 @@ Update the database connection details in the PHP database configuration file ac
 Open your browser and visit:
 
 ```text
-http://localhost/sreejita-restaurant-menu/
+http://localhost/restaurant-menu/
 ```
 
 ## 📸 Screenshots
