@@ -49,16 +49,16 @@ The database was developed and tested using **phpMyAdmin** through the XAMPP env
 
 ```text
 restaurant-menu/
-│
 ├── admin/
 ├── images/
-├── css/
-├── index.php
-├── menu.php
-├── view_cart.php
-├── checkout.php
+├── cart.php
 ├── db.php
-└── README.md
+├── index.php
+├── menu_update.php
+├── place_order.php
+├── style.css
+├── update_cart.php
+└── view_cart.php
 ```
 
 > The exact files may vary depending on the current version of the project.
