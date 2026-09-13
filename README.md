@@ -108,7 +108,7 @@ http://localhost/restaurant-menu/
 ![Menu Page](MenuPage.png)
 
 ### Cart Page
-![Cart Page](CartPage.png)
+![Cart Page](YourCart.png)
 
 ### Admin Page
 ![Admin Page](AdminPage.png)
