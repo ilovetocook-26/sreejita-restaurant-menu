@@ -104,16 +104,14 @@ http://localhost/restaurant-menu/
 
 ## 📸 Screenshots
 
-## Screenshots
+### Menu Page
+![Menu Page](screenshots/MenuPage.png)
 
-### Customer Menu
-![Customer Menu](Screenshots/MenuPage.png)
+### Cart Page
+![Cart Page](screenshots/CartPage.png)
 
-### Shopping Cart
-![Shopping Cart](Screenshots/YourCart.png)
-
-### Admin Panel
-![Admin Panel](Screenshots/AdminPage.png)
+### Admin Page
+![Admin Page](screenshots/AdminPage.png)
 
 ## 🎯 Project Objective
 
