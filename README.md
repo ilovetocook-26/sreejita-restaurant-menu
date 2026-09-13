@@ -105,13 +105,13 @@ http://localhost/restaurant-menu/
 ## 📸 Screenshots
 
 ### Menu Page
-![Menu Page](screenshots/MenuPage.png)
+![Menu Page](MenuPage.png)
 
 ### Cart Page
-![Cart Page](screenshots/CartPage.png)
+![Cart Page](CartPage.png)
 
 ### Admin Page
-![Admin Page](screenshots/AdminPage.png)
+![Admin Page](AdminPage.png)
 
 ## 🎯 Project Objective
 
