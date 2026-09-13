@@ -104,7 +104,16 @@ http://localhost/restaurant-menu/
 
 ## 📸 Screenshots
 
-Screenshots of the customer menu, shopping cart, and admin panel can be added here to demonstrate the project interface.
+## Screenshots
+
+### Customer Menu
+![Customer Menu](Screenshots/MenuPage.png)
+
+### Shopping Cart
+![Shopping Cart](Screenshots/YourCart.png)
+
+### Admin Panel
+![Admin Panel](Screenshots/AdminPage.png)
 
 ## 🎯 Project Objective
 
